@@ -5,6 +5,11 @@ import HTML from '../assets/html.png'
 import CSS from '../assets/CSS.png'
 import JS from '../assets/JS.png'
 import REACT from '../assets/react.png'
+import PHP from '../assets/php.png'
+import SYMFONY from '../assets/symfony.png'
+import SQL from '../assets/sql.png'
+import JAVA from '../assets/java.png'
+
 
 function Skills() {
     return (
@@ -25,12 +30,12 @@ function Skills() {
                 <img src={JS} />
                 <img src={REACT} />
                 <br></br>
-                <img src={CSS} />
-                <img src={JS} />
+                <img src={PHP} />
+                <img src={SYMFONY} />
                 <br></br>
-                <img src={JS} />
+                <img src={SQL} />
                 <br></br>
-                <img src={JS} />
+                <img src={JAVA} />
             </div>
         </div>
     </div>

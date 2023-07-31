@@ -5,7 +5,14 @@ import { Carousel } from 'react-responsive-carousel';
 import CV from '../assets/CV_ElliotGuiberteau.jpg'
 
 function Portfolio() {
-    return <Carousel
+    return (
+            
+        <div>
+            <div id='portfolio'>
+            <h1>Mes réalisations</h1>
+            </div>
+
+    <Carousel
     infiniteLoop 
     renderArrowPrev={(clickHandler, hasPrev, labelPrev) =>
         hasPrev && (
@@ -25,8 +32,8 @@ function Portfolio() {
     showStatus={false}
     >
         
+
        <div id="carousel1">
-       <img src={CV} />
        </div>
        <div id="carousel2">
         
@@ -36,6 +43,8 @@ function Portfolio() {
         </div>
 
         </Carousel>
+        </div>
+        )
 }
 
 export default Portfolio

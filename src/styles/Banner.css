@@ -9,7 +9,9 @@
     margin-top: 0px;
     position: sticky;
     top: 0px;
-    background-color: red;
+    background-color: #eec28d;
+    color: white;
+
  
 
 }
@@ -31,7 +33,7 @@
 }
 
 #banner a {
-    color: #100;
+    color: white;
     text-decoration: none;
 
 }

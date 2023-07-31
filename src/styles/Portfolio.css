@@ -1,3 +1,10 @@
+#portfolio{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+
+}
+
 #carousel1{
     margin: 0px 40px;
     height: 40vw;

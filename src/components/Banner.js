@@ -22,7 +22,9 @@ function Banner() {
                     </a>
                 </li>
                 <li>
+                    <a href="#portfolio">
                     Mes réalisations
+                    </a>
                 </li>
                 <li>
                     Contact
