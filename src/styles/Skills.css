@@ -1,0 +1,47 @@
+#skills h1{
+    display: flex;
+    justify-content: center;  
+    margin-bottom: 100px;
+}
+
+#contenair-skills{
+    display: flex;
+}
+
+#skills div{
+    width: 100%;
+
+}
+
+#description{
+    text-align: center;
+}
+
+#skills img{
+    margin-bottom: 30px;
+    width: 30vw;
+
+}
+
+#skills a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(70, 69, 69);
+    border-radius: 100px;
+    padding: 20px;
+    display: inline-block;
+}
+
+#skills a:hover{
+    color: rgb(70, 69, 69);
+    background-color: white;
+}
+
+
+#img-skills img{
+    width: 10vw;
+    height : 10vw;
+    object-fit:contain;
+}
+
