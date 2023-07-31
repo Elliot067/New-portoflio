@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/New-portoflio/static/css/main.72c38295.css",
+    "main.js": "/New-portoflio/static/js/main.32489ac7.js",
+    "static/media/CV_ElliotGuiberteau.jpg": "/New-portoflio/static/media/CV_ElliotGuiberteau.dd310097b120ff9012ae.jpg",
+    "static/media/CV_ElliotGuiberteau_.pdf": "/New-portoflio/static/media/CV_ElliotGuiberteau_.36530f2d80d6ccae1e7f.pdf",
+    "static/media/react.png": "/New-portoflio/static/media/react.c59a2e84840223bb95c6.png",
+    "static/media/html.png": "/New-portoflio/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/JS.png": "/New-portoflio/static/media/JS.3dfb665e058d08c99f28.png",
+    "index.html": "/New-portoflio/index.html",
+    "main.72c38295.css.map": "/New-portoflio/static/css/main.72c38295.css.map",
+    "main.32489ac7.js.map": "/New-portoflio/static/js/main.32489ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c38295.css",
+    "static/js/main.32489ac7.js"
+  ]
+}
