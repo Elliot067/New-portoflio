@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/New-portoflio/static/css/main.2fdaf948.css",
-    "main.js": "/New-portoflio/static/js/main.2ae134ee.js",
-    "static/media/CV_ElliotGuiberteau.jpg": "/New-portoflio/static/media/CV_ElliotGuiberteau.dd310097b120ff9012ae.jpg",
-    "static/media/CV_ElliotGuiberteau_.pdf": "/New-portoflio/static/media/CV_ElliotGuiberteau_.36530f2d80d6ccae1e7f.pdf",
-    "static/media/java.png": "/New-portoflio/static/media/java.63b31c9fcf5d2346d810.png",
-    "static/media/php.png": "/New-portoflio/static/media/php.3fc15cf443a81ef2d0a4.png",
-    "static/media/sql.png": "/New-portoflio/static/media/sql.d0875781b3030e385cc1.png",
-    "static/media/react.png": "/New-portoflio/static/media/react.c59a2e84840223bb95c6.png",
-    "static/media/html.png": "/New-portoflio/static/media/html.cfb2ba4a6b1c3de295bc.png",
-    "static/media/JS.png": "/New-portoflio/static/media/JS.3dfb665e058d08c99f28.png",
-    "static/media/symfony.png": "/New-portoflio/static/media/symfony.be6e19749b69f0b0e2fa.png",
-    "index.html": "/New-portoflio/index.html",
-    "main.2fdaf948.css.map": "/New-portoflio/static/css/main.2fdaf948.css.map",
-    "main.2ae134ee.js.map": "/New-portoflio/static/js/main.2ae134ee.js.map"
+    "main.css": "/Portfolio_Elliot_GUIBERTEAU/static/css/main.004c1c84.css",
+    "main.js": "/Portfolio_Elliot_GUIBERTEAU/static/js/main.165346e7.js",
+    "static/media/Portfolio_BTS.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/Portfolio_BTS.b575ccd244e41a75d193.jpg",
+    "static/media/Windows.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Windows.97487165005bb9cd0c22.png",
+    "static/media/CV_ElliotGuiberteau.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/CV_ElliotGuiberteau.79ca505ddd2be6ced446.jpg",
+    "static/media/Linux.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Linux.6d208c95cc37fd3cdc44.png",
+    "static/media/Virtualbox.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Virtualbox.58017192ddbaebb54150.png",
+    "static/media/CV_ElliotGuiberteau_.pdf": "/Portfolio_Elliot_GUIBERTEAU/static/media/CV_ElliotGuiberteau_.98fee2ffba5c86912197.pdf",
+    "static/media/Phpstorm.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Phpstorm.9011ffb8fed898724116.png",
+    "static/media/Packet_tracer.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Packet_tracer.3e5fe79d158b0fd56a03.png",
+    "static/media/Portfolio_main.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/Portfolio_main.260fab24b4b206ac468a.jpg",
+    "static/media/php.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/php.3fc15cf443a81ef2d0a4.png",
+    "static/media/react.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/react.c59a2e84840223bb95c6.png",
+    "static/media/html.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/JS.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/JS.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio_Elliot_GUIBERTEAU/index.html",
+    "main.004c1c84.css.map": "/Portfolio_Elliot_GUIBERTEAU/static/css/main.004c1c84.css.map",
+    "main.165346e7.js.map": "/Portfolio_Elliot_GUIBERTEAU/static/js/main.165346e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fdaf948.css",
-    "static/js/main.2ae134ee.js"
+    "static/css/main.004c1c84.css",
+    "static/js/main.165346e7.js"
   ]
 }
