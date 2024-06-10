@@ -43,5 +43,30 @@
     width: 10vw;
     height : 10vw;
     object-fit:contain;
+
 }
 
+#OS{
+    text-align: center;
+
+}
+
+#OS div{
+    margin-bottom: 20px;
+}
+
+#Outils{
+    text-align: center;
+}
+
+#Outils div{
+    margin-bottom: 20px;
+}
+
+#Langages {
+    text-align: center;
+}
+
+#Langages div {
+    margin-bottom: 20px;
+}

@@ -4,22 +4,78 @@
     padding-top: 100px;
     font-weight: bold;
 
+
 }
 
 #carousel1{
     margin: 0px 40px;
     height: 40vw;
-    background-color: red;
+    border: 1px solid black;
+    background-color: blue;
 }
+
+#projet1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 #carousel2{
     margin: 0px 40px;
     height: 40vw;
-    background-color: grey;
+    border: 1px solid black;
 }
+
+#carousel2 img{
+    height: 40vw;
+}
+
+ #projet2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(175, 109, 10, 0.2);
+ }
+
+
+
 #carousel3{
     margin: 0px 40px;
     height: 40vw;
-    background-color: blue;
+    border: 1px solid black;
+}
+
+
+#projet3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 #carousel1 img{

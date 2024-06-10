@@ -2,7 +2,8 @@ import '../styles/Portfolio.css'
 import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import CV from '../assets/CV_ElliotGuiberteau.jpg'
+import Portfolio_Main from '../assets/Portfolio_main.jpg';
+import Portfolio_BTS from '../assets/Portfolio_BTS.jpg';
 
 function Portfolio() {
     return (
@@ -34,9 +35,13 @@ function Portfolio() {
         
 
        <div id="carousel1">
+       <img src={Portfolio_Main} />
+       <div id='projet1'>Mon portfolio : Réalisé avec REACT</div>
        </div>
        <div id="carousel2">
-        
+        <img src={Portfolio_BTS} />
+        <div id='projet2'>Le porfolio que j'ai réalisé durant mon BTS : Réalisé en HTML / CSS et un peu de JS. https://elliot067.github.io/portfolio/Accueil
+        </div>
         </div>
         <div id="carousel3">
         

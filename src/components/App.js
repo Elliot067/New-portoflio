@@ -15,6 +15,7 @@ function App() {
     <Profile/>
     <Skills/>
     <Portfolio/>
+    <Footer/>
 
 </div>
   );
