@@ -20,4 +20,8 @@ function Profile() {
     )
 }
 
+<<<<<<< HEAD
 export default Profile
+=======
+export default Profile
+>>>>>>> 98ac631 (Modif 10/06)
