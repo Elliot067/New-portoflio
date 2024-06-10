@@ -2,11 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://Elliot067.github.io/New-portoflio",
-=======
+
   "homepage": "https://Elliot067.github.io/Portfolio_Elliot_GUIBERTEAU",
->>>>>>> 98ac631 (Modif 10/06)
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
