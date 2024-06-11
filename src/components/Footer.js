@@ -15,7 +15,7 @@ function Footer() {
             <div class="footer-section">
                 <p>Suivez-moi :</p>
                 <ul>
-                    <li><a href="linkedin.com/in/elliot-guiberteau-a016b820b">LinkedIn</a></li>
+                    <li><a href="https://linkedin.com/in/elliot-guiberteau-a016b820b">LinkedIn</a></li>
                     <li><a href="https://github.com/Elliot067">GitHub</a></li>
 
                 </ul>
